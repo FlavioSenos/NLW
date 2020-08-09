@@ -1,0 +1,25 @@
+#page-success {
+    background: var(--color-primary);
+}
+
+#page-success #container {
+    color: var(--color-text-in-primary);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.logo-container img {
+    max-width: 85%;
+    max-height: 85%;
+}
+
+.logo-container {
+    text-align: center;
+    margin-bottom: 3.2rem;
+}
+
+.logo-container h1 {
+    display: flex;
+    position: absolute;
+}
